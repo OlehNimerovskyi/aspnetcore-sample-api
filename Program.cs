@@ -23,3 +23,4 @@ app.MapGet("/api/health", () => Results.Ok(new
 }));
 
 app.Run();
+// Added small comment for demonstration
